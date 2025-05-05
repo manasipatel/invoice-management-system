@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1739483549686,
+      "tag": "0000_perfect_dracula",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1746208162255,
+      "tag": "0001_sad_mentor",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1746212062235,
+      "tag": "0002_lively_sway",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1746271243449,
+      "tag": "0003_wild_karen_page",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1746274245460,
+      "tag": "0004_redundant_thunderbolts",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1746352079381,
+      "tag": "0005_clumsy_spitfire",
+      "breakpoints": true
+    }
+  ]
+}

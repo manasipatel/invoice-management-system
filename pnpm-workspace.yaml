@@ -1,0 +1,7 @@
+ignoredBuiltDependencies:
+  - better-sqlite3
+onlyBuiltDependencies:
+  - '@biomejs/biome'
+  - esbuild
+  - sharp
+  - unrs-resolver
