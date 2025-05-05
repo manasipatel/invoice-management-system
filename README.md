@@ -27,3 +27,16 @@ pnpm dev
 ```
 
 Your app template should now be running on [localhost:3000](http://localhost:3000/).
+
+## Troubleshoot
+If you get an error while performing "pnpm db:migrate":
+❌ Migration failed
+Error: Could not locate the bindings file.
+
+Perform the following steps:
+
+```bash
+cd node_modules
+cd better-sqlite3
+pnpm run build-release
+```
